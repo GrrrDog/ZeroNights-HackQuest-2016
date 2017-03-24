@@ -1,6 +1,6 @@
 There are two web tasks from ZeroNights HackQuest 2016 http://hackquest.zeronights.org/.
 
-They consist of some unusual, but real vunls.
+They consist of some unusual, but real vuln types.
 
 Also they demostrate a part of research about Spring MVC ()
 
