@@ -2,7 +2,7 @@ There are two web tasks from ZeroNights HackQuest 2016 http://hackquest.zeronigh
 
 They consist of some unusual, but real vuln types.
 
-Also they demostrate a part of research about Spring MVC ()
+Also they demostrate a part of research about Spring MVC - http://agrrrdog.blogspot.com/2017/03/autobinding-vulns-and-spring-mvc.html
 
 All sources are in "src" folder.
 
